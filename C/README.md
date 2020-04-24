@@ -6,7 +6,7 @@ Hacker Rank
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [C](1.c)|Easy|
+|1|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [C](1.c)|`+ Easy`|
 |2|[Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem) | [C](2.c)|Easy|
 |3|[Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [C](3.c)|Easy|
 |4|[Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem) | [C](4.c)|Easy|
@@ -21,4 +21,13 @@ Hacker Rank
 |13|[Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem) | [C](13.c)|Medium|
 |14|[Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem) | [C](14.c)|Medium|
 |15|[Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | [C](15.c)|Medium|
-||[]() | [C]()|Easy|
+|16|[Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem) | [C](16.c)|Easy|
+|17|[Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem) | [C](17.c)|Easy|
+|18|[Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem) | [C](18.c)|Hard|
+|19|[Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem) | [C](19.c)|Medium|
+|20|[Variadic functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem) | [C](20.c)|Medium|
+|21|[Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes/problem) | [C](21.c)|Easy|
+|22|[Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem) | [C](22.c)|Medium|
+|23|[Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document/problem) | [C](23.c)|Hard|
+|24|[Post Transition](https://www.hackerrank.com/challenges/post-transition/problem) | [C](24.c)|Hard|
+<!-- |25|[]() | [C](25.c)|hard| -->
