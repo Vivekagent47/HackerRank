@@ -2,7 +2,10 @@ Hacker Rank
 ========
 
 ### Python Problems
-
+```differ
++ text in red
+- text in green
+```
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
