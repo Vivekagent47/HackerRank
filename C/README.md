@@ -1,12 +1,12 @@
 Hacker Rank
 ========
 
-### Python Problems
+### C Problems
 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [C](1.c)|`Easy|
+|1|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [C](1.c)|Easy|
 |2|[Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem) | [C](2.c)|Easy|
 |3|[Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [C](3.c)|Easy|
 |4|[Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem) | [C](4.c)|Easy|
