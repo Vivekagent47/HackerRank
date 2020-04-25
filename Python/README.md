@@ -33,6 +33,18 @@ Hacker Rank
 |25|[Alphabet Rangoli](hackerrank.com/challenges/alphabet-rangoli/problem) | [Python](25.py)|Easy|
 |26|[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Python]()|Medium|
 |27|[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Python](27.py)|Medium|
+|28|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | [Python](28.py)|Easy|
+|29[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | [Python](29.py)|Easy|
+|30|[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Python](30.py)|Easy|
+|31|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Python](31.py)|Easy|
+|32|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Python](32.py)|Easy|
+|33|[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Python](33.py)|Easy|
+|34|[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | [Python](34.py)|Easy|
+|35|[Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | [Python](35.py)|Easy|
+|36|[Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [Python](36.py)|Easy|
+|37|[Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem) | [Python](37.py)|Medium|
+|38|[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [Python](38.py)|Medium|
+||[]() | [Python]()|Easy|
 ||[]() | [Python]()|Easy|
 ||[]() | [Python]()|Easy|
 ||[]() | [Python]()|Easy|
