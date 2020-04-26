@@ -44,12 +44,16 @@ Hacker Rank
 |36|[Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [Python](36.py)|Easy|
 |37|[Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem) | [Python](37.py)|Medium|
 |38|[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [Python](38.py)|Medium|
+|39|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Python](39.py)|Medium|
+|40|[Input()](https://www.hackerrank.com/challenges/input/problem) | [Python](40.py)|Esay|
+|41|[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) | [Python](41.py)|Easy|
+|42|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Python](42.py)|Medium|
+|43|[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Python](43.py)|Easy|
+|44|[Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [Python](44.py)|Easy|
+|45|[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Python](45.py)|Easy|
+|46|[Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [Python](46.py)|Easy|
+|47|[Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Python](47.[py])|Easy|
+|48|[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [Python](48.py)|Easy|
+|49|[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [Python](49.py)|Easy|
+|50|[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [Python](50.py)|Easy|
 ||[]() | [Python]()|Easy|
-||[]() | [Python]()|Easy|
-||[]() | [Python]()|Easy|
-||[]() | [Python]()|Easy|
-||[]() | [Python]()|Easy|
-
-
-
-
