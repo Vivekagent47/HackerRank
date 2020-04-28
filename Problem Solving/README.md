@@ -1,0 +1,25 @@
+Hacker Rank
+========
+
+### Problem Solving
+
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Python](1.py)|Easy|
+|2|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Python](2.py)|Easy|
+|3|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Python](3.py)|Easy|
+|4|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Python](4.py)|Easy|
+|5|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Python](5.py)|Easy|
+|6|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Python](6.py)|Easy|
+|7|[Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Python](7.py)|Easy|
+|8|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Python](8.py)|Easy|
+|9|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Python](9.py)|Easy|
+|10|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Python](10.py)|Easy|
+|11|[Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Python](11.py)|Easy|
+|12|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | [Python](12.py)|Easy|
+|13|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Python](13.py)|Easy|
+||[]() | [Python]()|Easy|
+||[]() | [Python]()|Easy|
+||[]() | [Python]()|Easy|
+||[]() | [Python]()|Easy|
