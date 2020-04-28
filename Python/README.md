@@ -63,7 +63,7 @@ Hacker Rank
 |55|[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Python](55.py)|Medium|
 |56|[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Python](56.py)|Easy|
 |57|[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Python](57.py)|Easy|
-|58|[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | [Python](58.py)|Easy|
+|58|[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | [Python](58.py)|Hard|
 ||[]() | [Python]()|Easy|
 ||[]() | [Python]()|Easy|
 ||[]() | [Python]()|Easy|
