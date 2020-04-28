@@ -34,7 +34,7 @@ Hacker Rank
 |26|[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Python]()|Medium|
 |27|[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Python](27.py)|Medium|
 |28|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | [Python](28.py)|Easy|
-|29[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | [Python](29.py)|Easy|
+|29|[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | [Python](29.py)|Easy|
 |30|[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Python](30.py)|Easy|
 |31|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Python](31.py)|Easy|
 |32|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Python](32.py)|Easy|
@@ -59,7 +59,7 @@ Hacker Rank
 |51|[itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Python](51.py)|Easy|
 |52|[Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Python](52.py)|Easy|
 |53|[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [Python](53.py)|Easy|
-|54|[Word Order](https://www.hackerrank.com/challenges/word-order/problem) | [Python](54.py)|medium|
+|54|[Word Order](https://www.hackerrank.com/challenges/word-order/problem) | [Python](54.py)|Medium|
 |55|[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Python](55.py)|Medium|
 |56|[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Python](56.py)|Easy|
 |57|[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Python](57.py)|Easy|
