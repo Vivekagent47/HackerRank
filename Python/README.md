@@ -56,4 +56,15 @@ Hacker Rank
 |48|[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [Python](48.py)|Easy|
 |49|[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [Python](49.py)|Easy|
 |50|[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [Python](50.py)|Easy|
+|51|[itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Python](51.py)|Easy|
+|52|[Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Python](52.py)|Easy|
+|53|[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [Python](53.py)|Easy|
+|54|[Word Order](https://www.hackerrank.com/challenges/word-order/problem) | [Python](54.py)|medium|
+|55|[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Python](55.py)|Medium|
+|56|[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Python](56.py)|Easy|
+|57|[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Python](57.py)|Easy|
+|58|[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | [Python](58.py)|Easy|
+||[]() | [Python]()|Easy|
+||[]() | [Python]()|Easy|
+||[]() | [Python]()|Easy|
 ||[]() | [Python]()|Easy|
