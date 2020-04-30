@@ -69,7 +69,15 @@ Hacker Rank
 |61|[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [Python](61.py)|Easy| Sets |
 |62|[Company Logo](https://www.hackerrank.com/challenges/most-commons/problem) | [Python](62.py)|Medium| Collections |
 |63|[Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem) | [Python](63.py)|Medium| Collections |
-||[]() | [Python]()|Easy| |
-||[]() | [Python]()|Easy| |
-||[]() | [Python]()|Easy| |
+|64|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Python](64.py)|Easy| Sets |
+|65|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Python](65.py)|Easy| Sets |
+|66|[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Python](66.py)|Easy| Sets |
+|67|[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) | [Python](67.py)|Medium| Maths |
+|68|[Zipped!](https://www.hackerrank.com/challenges/zipped/problem) | [Python](68.py)|Easy| Bulit-ins |
+|69|[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem) | [Python](69.py)|Easy| Built-Ins |
+|70|[Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem) | [Python](70.py)|Easy| Built-Ins |
+|71|[Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem) | [Python](71.py)|Medium| Built-Ins |
+|72|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem) | [Python](72.py)|Medium| Built-Ins |
+|73|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Python](73.py)|Easy| Python Functionals |
+|74|[Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [Python](74.py)|Medium| Python Functionals |
 ||[]() | [Python]()|Easy| |
