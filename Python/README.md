@@ -46,7 +46,7 @@ Hacker Rank
 |38|[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [Python](38.py)|Medium| Maths |
 |39|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Python](39.py)|Medium| Maths |
 |40|[Input()](https://www.hackerrank.com/challenges/input/problem) | [Python](40.py)|Esay| Built-Ins |
-|41|[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) | [Python](41.py)|Easy| Numpy |
+|41|[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) | [Python](41.py)|Easy| NumPy |
 |42|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Python](42.py)|Medium| Sets |
 |43|[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Python](43.py)|Easy| Sets |
 |44|[Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [Python](44.py)|Easy| Collections |
@@ -80,4 +80,10 @@ Hacker Rank
 |72|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem) | [Python](72.py)|Medium| Built-Ins |
 |73|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Python](73.py)|Easy| Python Functionals |
 |74|[Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [Python](74.py)|Medium| Python Functionals |
+|75|[Arrays](https://www.hackerrank.com/challenges/np-arrays/problem) | [Python](75.py)|Easy| NumPy |
+|76|[Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem) | [Python](76.py)|Easy| NumPy |
+|77|[Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem) | [Python](77.py)|Easy| NumPy |
+|78|[Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem) | [Python](78.py)|Easy| NumPy |
+|79|[Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem) | [Python](79.py)|Easy| NumPy|
+|80|[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem) | [Python](80.py)|Easy| NumPy|
 ||[]() | [Python]()|Easy| |
