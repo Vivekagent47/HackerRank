@@ -86,4 +86,7 @@ Hacker Rank
 |78|[Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem) | [Python](78.py)|Easy| NumPy |
 |79|[Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem) | [Python](79.py)|Easy| NumPy|
 |80|[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem) | [Python](80.py)|Easy| NumPy|
+|81|[Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [Python](81.py)|Medium| Itertools |
+|82|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem) | [Python](82.py)|Medium| Python Functionals |
+|83|[Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [Python](83.py)|Easy| Classes |
 ||[]() | [Python]()|Easy| |
