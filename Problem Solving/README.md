@@ -19,7 +19,9 @@ Hacker Rank
 |11|[Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Python](11.py)|Easy|
 |12|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | [Python](12.py)|Easy|
 |13|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Python](13.py)|Easy|
-||[]() | [Python]()|Easy|
-||[]() | [Python]()|Easy|
-||[]() | [Python]()|Easy|
+|14|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Python](14.py)|Easy|
+|15|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Python](15.py)|Easy|
+|16|[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Python](16.py)|Easy|
+|17|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Python](17.py)|Easy|
+|18|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Python](18.py)|Easy|
 ||[]() | [Python]()|Easy|
