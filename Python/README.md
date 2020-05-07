@@ -89,4 +89,6 @@ Hacker Rank
 |81|[Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [Python](81.py)|Medium| Itertools |
 |82|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem) | [Python](82.py)|Medium| Python Functionals |
 |83|[Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [Python](83.py)|Easy| Classes |
+|84|[Words Score](https://www.hackerrank.com/challenges/words-score/problem) | [Python](84.py)|Medium| Debugging |
+|85|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem) | [Python](85.py)|Medium| Debugging |
 ||[]() | [Python]()|Easy| |
