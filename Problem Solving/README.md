@@ -24,4 +24,9 @@ Hacker Rank
 |16|[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Python](16.py)|Easy|
 |17|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Python](17.py)|Easy|
 |18|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Python](18.py)|Easy|
+|19|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Python](19.py)|Easy|
+|20|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Python](20.py)|Easy|
+|21|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [Python](21.py)|Easy|
+|22|[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Python](22.py)|Easy|
+|23|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Python](23.py)|Easy|
 ||[]() | [Python]()|Easy|
