@@ -29,4 +29,7 @@ Hacker Rank
 |21|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [Python](21.py)|Easy|
 |22|[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Python](22.py)|Easy|
 |23|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Python](23.py)|Easy|
+|24|[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Python](24.py)|Medium|
+|25|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Python](25.py)|Easy|
+|26|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Python](26.py)|Easy|
 ||[]() | [Python]()|Easy|
