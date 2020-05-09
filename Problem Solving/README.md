@@ -32,4 +32,7 @@ Hacker Rank
 |24|[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Python](24.py)|Medium|
 |25|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Python](25.py)|Easy|
 |26|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Python](26.py)|Easy|
+|27|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Python](27.py)|Easy|
+|28|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Python](28.py)|Easy|
+|29|[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Python](29.py)|Easy|
 ||[]() | [Python]()|Easy|
