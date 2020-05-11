@@ -39,5 +39,5 @@ Hacker Rank
 |31|[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Python](31.py)|Easy|
 |32|[Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | [Python](32.py)|Easy|
 |33|[XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem) | [Python](33.py)|Easy|
-|34|[Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | [Python](34.py)|Easy|
+|34|[Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | [Python](34.py)|Medium|
 ||[]() | [Python]()|Easy|
