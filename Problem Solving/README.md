@@ -35,4 +35,9 @@ Hacker Rank
 |27|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Python](27.py)|Easy|
 |28|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Python](28.py)|Easy|
 |29|[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Python](29.py)|Easy|
+|30|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [Python](30.py)|Easy|
+|31|[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Python](31.py)|Easy|
+|32|[Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | [Python](32.py)|Easy|
+|33|[XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem) | [Python](33.py)|Easy|
+|34|[Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | [Python](34.py)|Easy|
 ||[]() | [Python]()|Easy|
