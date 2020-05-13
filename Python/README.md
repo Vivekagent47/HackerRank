@@ -91,4 +91,9 @@ Hacker Rank
 |83|[Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [Python](83.py)|Easy| Classes |
 |84|[Words Score](https://www.hackerrank.com/challenges/words-score/problem) | [Python](84.py)|Medium| Debugging |
 |85|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem) | [Python](85.py)|Medium| Debugging |
+|86|[Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [Python](86.py)|Easy| Regex and Parsing |
+|87|[Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem) | [Python](87.py)|Easy| NumPy |
+|88|[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | [Python](88.py)|Easy| NumPy |
+|89|[Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | [Python](89.py)|Easy| NumPy |
+|90|[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem) | [Python](90.py)|Easy| NumPy |
 ||[]() | [Python]()|Easy| |
