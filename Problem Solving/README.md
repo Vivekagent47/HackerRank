@@ -40,4 +40,9 @@ Hacker Rank
 |32|[Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | [Python](32.py)|Easy|
 |33|[XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem) | [Python](33.py)|Easy|
 |34|[Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | [Python](34.py)|Medium|
+|35|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [Python](35.py)|Medium|
+|36|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | [Python](36.py)|Easy|
+|37|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Python](37.py)|Easy|
+|38|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Python](38.py)|Easy|
+|39|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Python](39.py)|Easy|
 ||[]() | [Python]()|Easy|
