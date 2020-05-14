@@ -45,4 +45,9 @@ Hacker Rank
 |37|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Python](37.py)|Easy|
 |38|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Python](38.py)|Easy|
 |39|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Python](39.py)|Easy|
+|40|[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | [Python](40.py)|Easy|
+|41|[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [Python](41.py)|Easy|
+|42|[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | [Python](42.py)|Easy|
+|43|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem) | [Python](43.py)|Easy|
+|44|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem) | [Python](44.py)|Easy|
 ||[]() | [Python]()|Easy|
