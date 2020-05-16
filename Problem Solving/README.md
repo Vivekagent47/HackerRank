@@ -50,4 +50,10 @@ Hacker Rank
 |42|[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | [Python](42.py)|Easy|
 |43|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem) | [Python](43.py)|Easy|
 |44|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem) | [Python](44.py)|Easy|
+|45|[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | [Python](45.py)|Medium|
+|46|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | [Python](46.py)|Easy|
+|47|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | [Python](47.py)|Easy|
+|48|[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Python](48.py)|Easy|
+|49|[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Python](49.py)|Easy|
+|50|[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Python](50.py)|Easy|
 ||[]() | [Python]()|Easy|
