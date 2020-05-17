@@ -56,4 +56,10 @@ Hacker Rank
 |48|[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Python](48.py)|Easy|
 |49|[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Python](49.py)|Easy|
 |50|[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Python](50.py)|Easy|
+|51|[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Python](52.py)|Easy|
+|52|[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Python](52.py)|Easy|
+|53|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Python](53.py)|Easy|
+|54|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Python](54.py)|Easy|
+|55|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Python](55.py)|Easy|
+|56|[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Python](56.py)|Easy|
 ||[]() | [Python]()|Easy|
