@@ -62,4 +62,8 @@ Hacker Rank
 |54|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Python](54.py)|Easy|
 |55|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Python](55.py)|Easy|
 |56|[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Python](56.py)|Easy|
+|57|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | [Python](57.py)|Medium|
+|58|[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | [Python](58.py)|Easy|
+|59|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | [Python](59.py)|Easy|
+|60|[Pairs](https://www.hackerrank.com/challenges/pairs/problem) | [Python](60.py)|Medium|
 ||[]() | [Python]()|Easy|
