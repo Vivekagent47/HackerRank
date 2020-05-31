@@ -66,4 +66,10 @@ Hacker Rank
 |58|[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | [Python](58.py)|Easy|
 |59|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | [Python](59.py)|Easy|
 |60|[Pairs](https://www.hackerrank.com/challenges/pairs/problem) | [Python](60.py)|Medium|
+|61|[Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | [Python](61.py)|Medium|
+|62|[Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem) | [Python](62.py)|Medium|
+|63|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | [Python](63.py)|Easy|
+|64|[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem) | [Python](64.py)|Easy|
+|65|[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem) | [Python](65.py)|Easy|
+|66|[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem) | [Python](66.py)|Easy|
 ||[]() | [Python]()|Easy|
