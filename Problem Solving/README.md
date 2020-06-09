@@ -72,4 +72,6 @@ Hacker Rank
 |64|[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem) | [Python](64.py)|Easy|
 |65|[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem) | [Python](65.py)|Easy|
 |66|[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem) | [Python](66.py)|Easy|
+|67|[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) | [Python](67.py)|Easy|
+|68|[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | [Python](68.py)|Easy|
 ||[]() | [Python]()|Easy|
