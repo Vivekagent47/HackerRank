@@ -96,4 +96,8 @@ Hacker Rank
 |88|[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | [Python](88.py)|Easy| NumPy |
 |89|[Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | [Python](89.py)|Easy| NumPy |
 |90|[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem) | [Python](90.py)|Easy| NumPy |
+|91|[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | [Python](91.py)|Easy| NumPy |
+|92|[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem) | [Python](92.py)|Easy| NumPy |
+|93|[Floor, Ceil and Rint](hackerrank.com/challenges/floor-ceil-and-rint/problem) | [Python](93.py)|Easy| NumPy |
+|94|[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem) | [Python](94.py)|Easy| NumPy |
 ||[]() | [Python]()|Easy| |
