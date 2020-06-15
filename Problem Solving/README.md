@@ -74,4 +74,7 @@ Hacker Rank
 |66|[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem) | [Python](66.py)|Easy|
 |67|[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) | [Python](67.py)|Easy|
 |68|[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | [Python](68.py)|Easy|
+|69|[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem) | [Python](69.py)|Easy|
+|70|[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | [Python](70.py)|Easy|
+|71|[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem) | [Python](71.py)|Easy|
 ||[]() | [Python]()|Easy|
