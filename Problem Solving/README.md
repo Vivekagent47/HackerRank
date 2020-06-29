@@ -77,4 +77,5 @@ Hacker Rank
 |69|[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem) | [Python](69.py)|Easy|
 |70|[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | [Python](70.py)|Easy|
 |71|[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem) | [Python](71.py)|Easy|
+|72|[The Power Sum](hackerrank.com/challenges/the-power-sum/problem) | [Python](72.py)|Medium|
 ||[]() | [Python]()|Easy|
