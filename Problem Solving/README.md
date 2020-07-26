@@ -80,4 +80,6 @@ Hacker Rank
 |72|[The Power Sum](hackerrank.com/challenges/the-power-sum/problem) | [Python](72.py)|Medium|
 |73|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) | [Python](73.py)|Easy|
 |74|[Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem) | [Python](74.py)|Hard|
+|75|[The Full Counting Sort](hackerrank.com/challenges/countingsort4/problem) | [Python](75.py)|Medium|
+||[]() | [Python]()|Easy|
 ||[]() | [Python]()|Easy|
