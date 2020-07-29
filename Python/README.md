@@ -100,4 +100,5 @@ Hacker Rank
 |92|[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem) | [Python](92.py)|Easy| NumPy |
 |93|[Floor, Ceil and Rint](hackerrank.com/challenges/floor-ceil-and-rint/problem) | [Python](93.py)|Easy| NumPy |
 |94|[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem) | [Python](94.py)|Easy| NumPy |
+|95|[Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | [Python](95.py)|Medium| Classes |
 ||[]() | [Python]()|Easy| |
