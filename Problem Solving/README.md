@@ -81,5 +81,10 @@ Hacker Rank
 |73|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) | [Python](73.py)|Easy|
 |74|[Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem) | [Python](74.py)|Hard|
 |75|[The Full Counting Sort](hackerrank.com/challenges/countingsort4/problem) | [Python](75.py)|Medium|
-||[]() | [Python]()|Easy|
+|76|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Python](76.py)|Easy|
+|77|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Python](77.py)|Easy|
+|78|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Python](78.py)|Easy|
+|79|[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [Python](79.py)|Easy|
+|80|[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [Python](80.py)|Easy|
+|81|[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | [Python](81.py)|Easy|
 ||[]() | [Python]()|Easy|
