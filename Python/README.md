@@ -101,4 +101,8 @@ Hacker Rank
 |93|[Floor, Ceil and Rint](hackerrank.com/challenges/floor-ceil-and-rint/problem) | [Python](93.py)|Easy| NumPy |
 |94|[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem) | [Python](94.py)|Easy| NumPy |
 |95|[Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | [Python](95.py)|Medium| Classes |
-||[]() | [Python]()|Easy| |
+|96|[Re.split()](https://www.hackerrank.com/challenges/re-split/problem) | [Python](96.py)|Easy| Regex and Parsing |
+|97|[Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | [Python](97.py)|Easy| Regex and Parsing |
+||[]() | [Python]()|Easy| Regex and Parsing |
+||[]() | [Python]()|Easy| Regex and Parsing |
+||[]() | [Python]()|Easy| Regex and Parsing |

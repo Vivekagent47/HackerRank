@@ -86,5 +86,9 @@ Hacker Rank
 |78|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Python](78.py)|Easy|
 |79|[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [Python](79.py)|Easy|
 |80|[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [Python](80.py)|Easy|
-|81|[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | [Python](81.py)|Easy|
+|81|[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | [Python](81.py)|Medium|
+|82|[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Python](82.py)|Medium|
+|83|[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) | [Python](83.py)|Hard|
+|84|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [Python](84.py)|Easy|
+|85|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | [Python](85.py)|Easy|
 ||[]() | [Python]()|Easy|
