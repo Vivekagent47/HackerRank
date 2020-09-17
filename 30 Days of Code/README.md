@@ -24,16 +24,15 @@ Hacker Rank
 |15|[Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Python](Day15.py)|Easy|
 |16|[Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Python](Day16.py)|Easy|
 |17|[Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Python](Day17.py)|Easy|
-|18|[]() | [Python]()|Easy|
-|19|[]() | [Python]()|Easy|
-|20|[]() | [Python]()|Easy|
-|21|[]() | [Python]()|Easy|
-|22|[]() | [Python]()|Easy|
-|23|[]() | [Python]()|Easy|
-|24|[]() | [Python]()|Easy|
-|25|[]() | [Python]()|Easy|
-|26|[]() | [Python]()|Easy|
-|27|[]() | [Python]()|Easy|
-|28|[]() | [Python]()|Easy|
-|29|[]() | [Python]()|Easy|
-|30|[]() | [Python]()|Easy|
+|18|[Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Python](Day18.py)|Easy|
+|19|[Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Python](Day19.py)|Easy|
+|20|[Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [Python](Day20.py)|Easy|
+|21|This problem requre CPP but I did not know CPP. | []()||
+|22|[Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Python](Day22.py)|Easy|
+|23|[Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Python](Day23.py)|Easy|
+|24|[Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Python](Day24.py)|Easy|
+|25|[Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Python](Day25.py)|Medium|
+|26|[Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Python](Day26.py)|Easy|
+|27|[Day 27: Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [Python](Day27.py)|Easy|
+|28|[Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Python](Day28.py)|Easy|
+|29|[Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Python](Day29.py)|Medium|
