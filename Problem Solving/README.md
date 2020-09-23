@@ -92,3 +92,6 @@
 |84|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [Python](84.py)|Easy|
 |85|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | [Python](85.py)|Easy|
 |86|[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [Python](86.py)|Easy|
+|87|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) |[Python](87.py)|Easy|
+|88|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) |[Python](88.py)|Easy|
+|89|[]() |[Python]()|Easy|
