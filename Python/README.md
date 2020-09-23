@@ -103,6 +103,5 @@
 |95|[Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | [Python](95.py)|Medium| Classes |
 |96|[Re.split()](https://www.hackerrank.com/challenges/re-split/problem) | [Python](96.py)|Easy| Regex and Parsing |
 |97|[Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | [Python](97.py)|Easy| Regex and Parsing |
-||[]() | [Python]()|Easy| Regex and Parsing |
-||[]() | [Python]()|Easy| Regex and Parsing |
+|98|[Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [Python](98.py)|Easy| Regex and Parsing |
 ||[]() | [Python]()|Easy| Regex and Parsing |

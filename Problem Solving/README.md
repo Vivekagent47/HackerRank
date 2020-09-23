@@ -91,4 +91,4 @@
 |83|[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) | [Python](83.py)|Hard|
 |84|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [Python](84.py)|Easy|
 |85|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | [Python](85.py)|Easy|
-||[]() | [Python]()|Easy|
+|86|[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [Python](86.py)|Easy|
