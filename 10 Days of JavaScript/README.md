@@ -20,4 +20,10 @@
 |4.1|[Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | [JavaScript](Day41.js)|
 |4.2|[Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem) | [JavaScript](Day42.js)|
 |4.3|[Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem) | [JavaScript](Day43.js)|
+|5.1|[Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem) | [JavaScript](Day51.js)|
+|5.2|[Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [JavaScript](Day52.js)|
+|5.3|[Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | [JavaScript](Day53.js)|
+|6.1|[Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | [JavaScript](Day61.js)|
+|6.2|[Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | [JavaScript](Day62.js)|
+|6.3|[]() | [JavaScript](Day63.js)|
 <!-- ||[]() | [JavaScript]()| -->
