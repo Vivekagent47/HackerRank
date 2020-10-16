@@ -30,4 +30,4 @@
 |22|[Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem) | [C](22.c)|Medium|
 |23|[Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document/problem) | [C](23.c)|Hard|
 |24|[Post Transition](https://www.hackerrank.com/challenges/post-transition/problem) | [C](24.c)|Hard|
-<!-- |25|[]() | [C](25.c)|hard| -->
+|25|[Querying the Document](https://www.hackerrank.com/challenges/querying-the-document/problem) | [C](25.c)|hard|
