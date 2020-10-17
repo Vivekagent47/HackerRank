@@ -28,4 +28,6 @@
 |7.1|[Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | [Javascript](Day71.js)|
 |7.2|[Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | [JavaScript](Day72.js)|
 |7.3|[Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | [JavaScript](Day73.js)|
-<!-- ||[]() | [JavaScript]()| -->
+|8.1|[]() | [JavaScript](Day81.html)|
+|8.2|[]() | [JavaScript](Day82.html)|
+|9.1|[]() | [JavaScript](Day91.js)|
