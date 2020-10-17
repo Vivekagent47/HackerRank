@@ -25,4 +25,7 @@
 |5.3|[Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | [JavaScript](Day53.js)|
 |6.1|[Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | [JavaScript](Day61.js)|
 |6.2|[Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | [JavaScript](Day62.js)|
+|7.1|[Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | [Javascript](Day71.js)|
+|7.2|[Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | [JavaScript](Day72.js)|
+|7.3|[Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | [JavaScript](Day73.js)|
 <!-- ||[]() | [JavaScript]()| -->
