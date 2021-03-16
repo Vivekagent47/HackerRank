@@ -94,4 +94,6 @@
 |86|[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [Python](86.py)|Easy|
 |87|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) |[Python](87.py)|Easy|
 |88|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) |[Python](88.py)|Easy|
-|89|[]() |[Python]()|Easy|
+|89|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) |[Python](89.py)|Easy|
+|90|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) |[Python](90.py)|Easy|
+|91|[]() |[Python]()|Easy|
