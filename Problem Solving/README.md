@@ -96,4 +96,7 @@
 |88|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) |[Python](88.py)|Easy|
 |89|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) |[Python](89.py)|Easy|
 |90|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) |[Python](90.py)|Easy|
-|91|[]() |[Python]()|Easy|
+|91|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) |[Python](91.py)|Easy|
+|92|[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) |[Python](92.py)|Easy|
+|93|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) |[Python](93.py)|Medium|
+|93|[]() |[Python]()|Easy|
